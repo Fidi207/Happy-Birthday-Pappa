@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    font-family: 'Parisienne', cursive;
+    color: azure;
+    font-size: 40px;
+}
+
+#gif{
+    height: 400px;
+    width: 400px;
+}
+
+#imag{
+    height: 400px;
+    width: 400px;
+}
+
+#hi{
+    color: crimson;
+    font-family: 'Sacramento', cursive;
+}
+
+.quotes{
+    font-family: 'Cinzel Decorative', cursive;
+    color: cyan;
+}
+
+#Img1{
+    height: 500px;
+    width: 250px;
+}
+
+#Img2{
+    height: 500px;
+    width: 300px;
+}
+
+#Img3{
+    height: 500px;
+    width: 400px;
+}
